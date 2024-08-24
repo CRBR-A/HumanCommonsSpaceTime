@@ -1,0 +1,33 @@
++---+--------------------+
+|   |February            |
++---+--+--+--+--+--+--+--+
+|WkN|Su|Mo|Tu|We|Th|Fr|Sa|
++===+==+==+==+==+==+==+==+
+|W05|  |  |  | 1| 2| 3| 4|
++---+--+--+--+--+--+--+--+
+|W06| 5| 6| 7| 8| 9|10|11|
++---+--+--+--+--+--+--+--+
+|W07|12|13|14|15|16|17|18|
++---+--+--+--+--+--+--+--+
+|W08|19|20|21|22|23|24|25|
++---+--+--+--+--+--+--+--+
+|W09|26|27|28|  |  |  |  |
++---+--+--+--+--+--+--+--+
+
+
+---
+current:
+  month: February
+  year: 
+    starting: Sunday
+    type: Common
+    index: <./index.txt>
+  file: <./m02-february.txt>
+    license: public domain
+previous:
+  month: January
+  file: <./m01-january.txt>
+next:
+  month: March
+  file: <./m03-march.txt>
+...

@@ -1,0 +1,33 @@
++---+--------------------+
+|   |October             |
++---+--+--+--+--+--+--+--+
+|WkN|Mo|Tu|We|Th|Fr|Sa|Su|
++===+==+==+==+==+==+==+==+
+|W40|  | 1| 2| 3| 4| 5| 6|
++---+--+--+--+--+--+--+--+
+|W41| 7| 8| 9|10|11|12|13|
++---+--+--+--+--+--+--+--+
+|W42|14|15|16|17|18|19|20|
++---+--+--+--+--+--+--+--+
+|W43|21|22|23|24|25|26|27|
++---+--+--+--+--+--+--+--+
+|W44|28|29|30|31|  |  |  |
++---+--+--+--+--+--+--+--+
+
+
+---
+current:
+  month: October
+  year: 
+    starting: Monday
+    type: Leap
+    index: <./index.txt>
+  file: <./m10-october.txt>
+    license: public domain
+previous:
+  month: September
+  file: <./m09-september.txt>
+next:
+  month: November
+  file: <./m11-november.txt>
+...

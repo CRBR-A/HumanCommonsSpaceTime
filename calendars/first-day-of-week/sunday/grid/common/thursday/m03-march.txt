@@ -1,0 +1,33 @@
++---+--------------------+
+|   |March               |
++---+--+--+--+--+--+--+--+
+|WkN|Su|Mo|Tu|We|Th|Fr|Sa|
++===+==+==+==+==+==+==+==+
+|W10| 1| 2| 3| 4| 5| 6| 7|
++---+--+--+--+--+--+--+--+
+|W11| 8| 9|10|11|12|13|14|
++---+--+--+--+--+--+--+--+
+|W12|15|16|17|18|19|20|21|
++---+--+--+--+--+--+--+--+
+|W13|22|23|24|25|26|27|28|
++---+--+--+--+--+--+--+--+
+|W14|29|30|31|  |  |  |  |
++---+--+--+--+--+--+--+--+
+
+
+---
+current:
+  month: March
+  year: 
+    starting: Thursday
+    type: Common
+    index: <./index.txt>
+  file: <./m03-march.txt>
+    license: public domain
+previous:
+  month: February
+  file: <./m02-february.txt>
+next:
+  month: April
+  file: <./m04-april.txt>
+...

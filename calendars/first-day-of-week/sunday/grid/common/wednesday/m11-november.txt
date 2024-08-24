@@ -1,0 +1,35 @@
++---+--------------------+
+|   |November            |
++---+--+--+--+--+--+--+--+
+|WkN|Su|Mo|Tu|We|Th|Fr|Sa|
++===+==+==+==+==+==+==+==+
+|W44|  |  |  |  |  |  | 1|
++---+--+--+--+--+--+--+--+
+|W45| 2| 3| 4| 5| 6| 7| 8|
++---+--+--+--+--+--+--+--+
+|W46| 9|10|11|12|13|14|15|
++---+--+--+--+--+--+--+--+
+|W47|16|17|18|19|20|21|22|
++---+--+--+--+--+--+--+--+
+|W48|23|24|25|26|27|28|29|
++---+--+--+--+--+--+--+--+
+|W49|30|  |  |  |  |  |  |
++---+--+--+--+--+--+--+--+
+
+
+---
+current:
+  month: November
+  year: 
+    starting: Wednesday
+    type: Common
+    index: <./index.txt>
+  file: <./m11-november.txt>
+    license: public domain
+previous:
+  month: October
+  file: <./m10-october.txt>
+next:
+  month: December
+  file: <./m12-december.txt>
+...

@@ -1,0 +1,33 @@
++---+--------------------+
+|   |September           |
++---+--+--+--+--+--+--+--+
+|WkN|Mo|Tu|We|Th|Fr|Sa|Su|
++===+==+==+==+==+==+==+==+
+|W36| 1| 2| 3| 4| 5| 6| 7|
++---+--+--+--+--+--+--+--+
+|W37| 8| 9|10|11|12|13|14|
++---+--+--+--+--+--+--+--+
+|W38|15|16|17|18|19|20|21|
++---+--+--+--+--+--+--+--+
+|W39|22|23|24|25|26|27|28|
++---+--+--+--+--+--+--+--+
+|W40|29|30|  |  |  |  |  |
++---+--+--+--+--+--+--+--+
+
+
+---
+current:
+  month: September
+  year: 
+    starting: Tuesday
+    type: Leap
+    index: <./index.txt>
+  file: <./m09-september.txt>
+    license: public domain
+previous:
+  month: August
+  file: <./m08-august.txt>
+next:
+  month: October
+  file: <./m10-october.txt>
+...

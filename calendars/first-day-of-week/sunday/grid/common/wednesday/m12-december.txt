@@ -1,0 +1,37 @@
++---+--------------------+
+|   |December            |
++---+--+--+--+--+--+--+--+
+|WkN|Su|Mo|Tu|We|Th|Fr|Sa|
++===+==+==+==+==+==+==+==+
+|W49|  | 1| 2| 3| 4| 5| 6|
++---+--+--+--+--+--+--+--+
+|W50| 7| 8| 9|10|11|12|13|
++---+--+--+--+--+--+--+--+
+|W51|14|15|16|17|18|19|20|
++---+--+--+--+--+--+--+--+
+|W52|21|22|23|24|25|26|27|
++---+--+--+--+--+--+--+--+
+|W01|28|29|30|31|  |  |  |
++---+--+--+--+--+--+--+--+
+
+---
+current:
+  month: December
+  year: 
+    starting: Wednesday
+    type: Common
+    index: <./index.txt>
+  file: <./m12-december.txt>
+    license: public domain
+previous:
+  month: November
+  file: <./m11-november.txt>
+next:
+  month: January
+  year: 
+    starting: Thursday
+    - type: Common
+      file: <../../common/thursday/m01-january.txt>
+    - type: Leap
+      file: <../../leap/thursday/m01-january.txt>
+...
