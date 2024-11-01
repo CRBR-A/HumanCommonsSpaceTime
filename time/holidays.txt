@@ -1,0 +1,22 @@
+| Holiday                              | Date                        |
+| ------------------------------------ | --------------------------- | 
+| New Year's Day                       | First day of January        |
+| Birthday of Martin Luther King, Jr.  | Third Monday of January     |
+| Washington's Birthday                | Third Monday of February    |
+| Memorial Day                         | Last Monday of May          |
+| Juneteenth National Independence Day | 19th of June (year > 2020)  |
+| Independence Day                     | 4th of July                 |
+| Labor Day                            | First Monday of September   |
+| Columbus Day                         | Second Monday of October    |
+| Veterans Day                         | 11th November               |
+| Thanksgiving Day                     | Fourth Thursday of November |
+| Christmas Day                        | 25th of December            |
+
+If holiday is Sunday, Monday (day +1)
+If holiday is Saturday, Friday (day -1)
+
+---
+sources:
+  url: https://github.com/18F/us-federal-holidays/blob/main/index.js
+  license: CC0-1.0
+...
